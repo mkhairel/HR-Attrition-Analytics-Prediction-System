@@ -12,7 +12,7 @@ This project aims to analyze employee attrition patterns using HR data and build
 - Generate HR insights for retention strategies
 
 ## Dataset
-- Dataset contains 1,470 records and 35 features including Arritation, Ages, Gender, Department and Job role.
+- Dataset contains 1,470 records and 35 features including Attrition, Ages, Gender, Department and Job role.
 
 ## Tools
 - Google Colab
