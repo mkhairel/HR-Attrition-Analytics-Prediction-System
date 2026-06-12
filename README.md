@@ -12,7 +12,7 @@ This project aims to analyze employee attrition patterns using HR data and build
 - Generate HR insights for retention strategies
 
 ## Dataset
-- Dataset contains 1,470 records and 35 features including Attrition, Ages, Gender, Department and Job role.
+- The dataset consists of 1,470 employee records with 35 HR-related attributes including age, department, job role, income level, overtime status, job satisfaction, and attrition status.
 
 ## Tools
 - Google Colab
@@ -74,6 +74,12 @@ Dashboard includes:
 - Department Analysis
 - Overtime Analysis
 - Employee Risk Indicators
+
+## Business Problem
+- Employee attrition can result in increased recruitment costs, productivity loss, and operational disruption. This project aims to identify key factors contributing to employee turnover and develop a predictive solution that enables HR teams to proactively address retention risks.
+
+## Project Impact
+- The project provides HR decision-makers with a data-driven approach to monitor workforce turnover trends, identify high-risk employee groups, and support retention planning through interactive dashboards and predictive analytics.
 
 ## Files
 - Data_understanding
